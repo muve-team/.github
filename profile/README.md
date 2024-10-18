@@ -1,12 +1,8 @@
-## Hi there 👋
+# Muve 쇼핑몰 프로젝트
 
-<!--
+**Muve**는 사용자들이 다양한 제품을 쉽게 찾아보고 구매할 수 있는 쇼핑몰 플랫폼입니다. 직관적인 UI/UX와 강력한 백엔드 시스템을 통해 원활한 쇼핑 경험을 제공합니다.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 기술 스택
+- **프론트엔드**: React, Next.js
+- **백엔드**: Spring Boot
+- **IaC**: Terraform
